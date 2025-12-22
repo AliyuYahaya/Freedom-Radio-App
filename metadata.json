@@ -1,0 +1,7 @@
+{
+  "name": "Tashoshin Freedom Radio Group",
+  "description": "Northern Nigeria's #1 radio network. Live streaming, podcasts, and voice messages. Optimized for low-bandwidth connections.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
